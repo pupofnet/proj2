@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all" : "fernirsarmors:block/mithril_ore"
+  }
+}
